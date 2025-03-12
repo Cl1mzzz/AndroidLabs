@@ -7,4 +7,5 @@
     <string name="radioExpensive">Дорого</string>
     <string name="buttonOrder">OK</string>
     <string name="error">OK</string>
+    <string name="cancel">Cancel</string>
 </resources>
