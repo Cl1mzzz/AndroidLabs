@@ -1,10 +1,15 @@
 <resources>
     <string name="app_name">AndroidLabs</string>
-    <string name="editTextName">Введіть вид квітки</string>
+    <string name="editTextName">Введіть вид квітки:</string>
     <string name="radioRed">Червоний</string>
     <string name="radioWhite">Білий</string>
     <string name="radioCheap">Дешево</string>
     <string name="radioExpensive">Дорого</string>
     <string name="buttonOrder">OK</string>
-    <string name="error">OK</string>
+    <string name="error">Помилка</string>
+    <string name="Back">Назад</string>
+    <string name="delete_button">Видалити історію</string>
+    <string name="history">Історія замовлень:</string>
+    <string name="show_history">Переглянути історію</string>-->
+    <string name="cancel">Cancel</string>
 </resources>
