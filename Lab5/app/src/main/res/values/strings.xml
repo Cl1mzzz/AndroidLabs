@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Lab5</string>
+    <string name="x_str">X: 0</string>
+    <string name="y_str">Y: 0</string>
+</resources>
