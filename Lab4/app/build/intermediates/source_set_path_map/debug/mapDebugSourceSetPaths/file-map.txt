@@ -1,0 +1,52 @@
+com.example.lab4.app-chip-navigation-bar-1.4.0-0 C:\Users\danil\.gradle\caches\8.11.1\transforms\0038145bff48873122f271c8ddd23b60\transformed\chip-navigation-bar-1.4.0\res
+com.example.lab4.app-lifecycle-runtime-ktx-2.6.2-1 C:\Users\danil\.gradle\caches\8.11.1\transforms\0e01faa53c31335b1002f6d7b17eafc8\transformed\lifecycle-runtime-ktx-2.6.2\res
+com.example.lab4.app-transition-1.5.0-2 C:\Users\danil\.gradle\caches\8.11.1\transforms\0eeb85f5a7abc7514a48fc6d721d4417\transformed\transition-1.5.0\res
+com.example.lab4.app-lifecycle-process-2.6.2-3 C:\Users\danil\.gradle\caches\8.11.1\transforms\144f03688611d75a0f6e9b5db1e36572\transformed\lifecycle-process-2.6.2\res
+com.example.lab4.app-preference-ktx-1.2.0-4 C:\Users\danil\.gradle\caches\8.11.1\transforms\1b212eb929893ac5331143e3d3d16110\transformed\preference-ktx-1.2.0\res
+com.example.lab4.app-lifecycle-livedata-core-2.6.2-5 C:\Users\danil\.gradle\caches\8.11.1\transforms\1b469ebab7d9a917f008bdc1cca15ed3\transformed\lifecycle-livedata-core-2.6.2\res
+com.example.lab4.app-profileinstaller-1.4.0-6 C:\Users\danil\.gradle\caches\8.11.1\transforms\1be7ff80cfec3a1738c1107159d786cc\transformed\profileinstaller-1.4.0\res
+com.example.lab4.app-startup-runtime-1.1.1-7 C:\Users\danil\.gradle\caches\8.11.1\transforms\21fa11241948fa4b9a439b3774de5f45\transformed\startup-runtime-1.1.1\res
+com.example.lab4.app-savedstate-1.2.1-8 C:\Users\danil\.gradle\caches\8.11.1\transforms\271f0d0670cce6e2dccf935ddb82932a\transformed\savedstate-1.2.1\res
+com.example.lab4.app-appcompat-resources-1.7.0-9 C:\Users\danil\.gradle\caches\8.11.1\transforms\3e60b5b2d98749f7c4db8efc22fff894\transformed\appcompat-resources-1.7.0\res
+com.example.lab4.app-window-1.0.0-10 C:\Users\danil\.gradle\caches\8.11.1\transforms\441e4150fce53fd64763e4c9459969d1\transformed\window-1.0.0\res
+com.example.lab4.app-appcompat-1.7.0-11 C:\Users\danil\.gradle\caches\8.11.1\transforms\489b898c416ff103046485eb4a274628\transformed\appcompat-1.7.0\res
+com.example.lab4.app-viewpager2-1.0.0-12 C:\Users\danil\.gradle\caches\8.11.1\transforms\49c7fb8e3710b8aadc37367c3c0497bd\transformed\viewpager2-1.0.0\res
+com.example.lab4.app-material-1.12.0-13 C:\Users\danil\.gradle\caches\8.11.1\transforms\4d3c3c2a1285e78f6a1ccda1ff867549\transformed\material-1.12.0\res
+com.example.lab4.app-emoji2-views-helper-1.3.0-14 C:\Users\danil\.gradle\caches\8.11.1\transforms\53a792e9cf5605f35f786f44bcc60245\transformed\emoji2-views-helper-1.3.0\res
+com.example.lab4.app-annotation-experimental-1.4.0-15 C:\Users\danil\.gradle\caches\8.11.1\transforms\553ab80217c8a6240273b5430c4b9152\transformed\annotation-experimental-1.4.0\res
+com.example.lab4.app-emoji2-1.3.0-16 C:\Users\danil\.gradle\caches\8.11.1\transforms\5c478e3d8a99af38dce309cf4538ee82\transformed\emoji2-1.3.0\res
+com.example.lab4.app-coordinatorlayout-1.1.0-17 C:\Users\danil\.gradle\caches\8.11.1\transforms\5f27d7fd0f3d87c7f65cc1a64bca4d03\transformed\coordinatorlayout-1.1.0\res
+com.example.lab4.app-lifecycle-runtime-2.6.2-18 C:\Users\danil\.gradle\caches\8.11.1\transforms\62b2d6d6b517ff14fd0aa90972bda5b3\transformed\lifecycle-runtime-2.6.2\res
+com.example.lab4.app-preference-1.2.0-19 C:\Users\danil\.gradle\caches\8.11.1\transforms\6465c560cc718e9a3dbd1d4b2d7d5f3d\transformed\preference-1.2.0\res
+com.example.lab4.app-core-1.13.0-20 C:\Users\danil\.gradle\caches\8.11.1\transforms\69527456f9ca19bd9871036721fb1d14\transformed\core-1.13.0\res
+com.example.lab4.app-media3-exoplayer-1.2.1-21 C:\Users\danil\.gradle\caches\8.11.1\transforms\6e3e6c9f467d2ee776eb008c6c600799\transformed\media3-exoplayer-1.2.1\res
+com.example.lab4.app-activity-1.10.1-22 C:\Users\danil\.gradle\caches\8.11.1\transforms\7ddb4f4ffb2af1aa8e2da1723845a697\transformed\activity-1.10.1\res
+com.example.lab4.app-lifecycle-viewmodel-2.6.2-23 C:\Users\danil\.gradle\caches\8.11.1\transforms\7e2532d2e5ee4028b416921b405a494a\transformed\lifecycle-viewmodel-2.6.2\res
+com.example.lab4.app-exoplayer-ui-2.17.1-24 C:\Users\danil\.gradle\caches\8.11.1\transforms\7eb1bd40d0140b975623bbd257a1f004\transformed\exoplayer-ui-2.17.1\res
+com.example.lab4.app-cardview-1.0.0-25 C:\Users\danil\.gradle\caches\8.11.1\transforms\8f7f79c71e333db5f7148c97c02c21d2\transformed\cardview-1.0.0\res
+com.example.lab4.app-constraintlayout-2.2.1-26 C:\Users\danil\.gradle\caches\8.11.1\transforms\92e97e6a19b257fc8c6c744aa58f7461\transformed\constraintlayout-2.2.1\res
+com.example.lab4.app-lifecycle-viewmodel-savedstate-2.6.2-27 C:\Users\danil\.gradle\caches\8.11.1\transforms\a316e6dcb9d698e55446dd9a8bf685f5\transformed\lifecycle-viewmodel-savedstate-2.6.2\res
+com.example.lab4.app-media3-ui-1.2.1-28 C:\Users\danil\.gradle\caches\8.11.1\transforms\adad3a9999fe3c2c7ce9fb04adc50619\transformed\media3-ui-1.2.1\res
+com.example.lab4.app-lifecycle-viewmodel-ktx-2.6.2-29 C:\Users\danil\.gradle\caches\8.11.1\transforms\afa41b8bc6837dbc95a03857f96cc189\transformed\lifecycle-viewmodel-ktx-2.6.2\res
+com.example.lab4.app-exoplayer-core-2.17.1-30 C:\Users\danil\.gradle\caches\8.11.1\transforms\b5e8294f0009b853ecc3fc463f8abef2\transformed\exoplayer-core-2.17.1\res
+com.example.lab4.app-powerspinner-1.2.7-31 C:\Users\danil\.gradle\caches\8.11.1\transforms\b853b89cf46f01eb7c8b6c5bb1533db6\transformed\powerspinner-1.2.7\res
+com.example.lab4.app-slidingpanelayout-1.2.0-32 C:\Users\danil\.gradle\caches\8.11.1\transforms\be2951efbac001c1a8853744d2485392\transformed\slidingpanelayout-1.2.0\res
+com.example.lab4.app-activity-ktx-1.10.1-33 C:\Users\danil\.gradle\caches\8.11.1\transforms\c0247abe1beaa8a7e3a804ab21ce53b5\transformed\activity-ktx-1.10.1\res
+com.example.lab4.app-core-ktx-1.13.0-34 C:\Users\danil\.gradle\caches\8.11.1\transforms\c0e7149d09165b0d1627d52e40968e9c\transformed\core-ktx-1.13.0\res
+com.example.lab4.app-savedstate-ktx-1.2.1-35 C:\Users\danil\.gradle\caches\8.11.1\transforms\c18b025d4cd18d9ba3801970bbd34443\transformed\savedstate-ktx-1.2.1\res
+com.example.lab4.app-drawerlayout-1.1.1-36 C:\Users\danil\.gradle\caches\8.11.1\transforms\c7151b0444a2842917117acb5742adfd\transformed\drawerlayout-1.1.1\res
+com.example.lab4.app-core-runtime-2.2.0-37 C:\Users\danil\.gradle\caches\8.11.1\transforms\ce2e7ce4834d4ea060fa7b82e043c7de\transformed\core-runtime-2.2.0\res
+com.example.lab4.app-customview-poolingcontainer-1.0.0-38 C:\Users\danil\.gradle\caches\8.11.1\transforms\cf8fb0345c723558484667b2270f5ae7\transformed\customview-poolingcontainer-1.0.0\res
+com.example.lab4.app-fragment-1.5.4-39 C:\Users\danil\.gradle\caches\8.11.1\transforms\cfb7c1bf5fa9b3cf9569b958ddc3996a\transformed\fragment-1.5.4\res
+com.example.lab4.app-lifecycle-livedata-core-ktx-2.6.2-40 C:\Users\danil\.gradle\caches\8.11.1\transforms\d5512a337d2ec5f3f6df1996b6aea523\transformed\lifecycle-livedata-core-ktx-2.6.2\res
+com.example.lab4.app-core-viewtree-1.0.0-41 C:\Users\danil\.gradle\caches\8.11.1\transforms\d7eb8df1d145273e8ba04b0aec610847\transformed\core-viewtree-1.0.0\res
+com.example.lab4.app-lifecycle-livedata-2.6.2-42 C:\Users\danil\.gradle\caches\8.11.1\transforms\e02ba42571fd8aae3dfaceff6c9c14c5\transformed\lifecycle-livedata-2.6.2\res
+com.example.lab4.app-recyclerview-1.3.0-43 C:\Users\danil\.gradle\caches\8.11.1\transforms\ec1c5d802b1ae6aff40c66b74e82d29e\transformed\recyclerview-1.3.0\res
+com.example.lab4.app-media-1.6.0-44 C:\Users\danil\.gradle\caches\8.11.1\transforms\f620cc8627f0ecbaa659eeeb05b435f4\transformed\media-1.6.0\res
+com.example.lab4.app-pngs-45 D:\Programing\Android Projects\Lab4\app\build\generated\res\pngs\debug
+com.example.lab4.app-resValues-46 D:\Programing\Android Projects\Lab4\app\build\generated\res\resValues\debug
+com.example.lab4.app-packageDebugResources-47 D:\Programing\Android Projects\Lab4\app\build\intermediates\incremental\debug\packageDebugResources\merged.dir
+com.example.lab4.app-packageDebugResources-48 D:\Programing\Android Projects\Lab4\app\build\intermediates\incremental\debug\packageDebugResources\stripped.dir
+com.example.lab4.app-debug-49 D:\Programing\Android Projects\Lab4\app\build\intermediates\merged_res\debug\mergeDebugResources
+com.example.lab4.app-debug-50 D:\Programing\Android Projects\Lab4\app\src\debug\res
+com.example.lab4.app-main-51 D:\Programing\Android Projects\Lab4\app\src\main\res

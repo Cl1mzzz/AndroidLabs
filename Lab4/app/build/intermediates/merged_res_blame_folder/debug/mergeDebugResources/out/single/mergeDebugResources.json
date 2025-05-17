@@ -1,0 +1,162 @@
+[
+    {
+        "merged": "C:\\Users\\danil\\.gradle\\daemon\\8.11.1\\com.example.lab4.app-debug-49:\\mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\danil\\.gradle\\daemon\\8.11.1\\com.example.lab4.app-main-51:\\mipmap-xxxhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\danil\\.gradle\\daemon\\8.11.1\\com.example.lab4.app-debug-49:\\xml_data_extraction_rules.xml.flat",
+        "source": "C:\\Users\\danil\\.gradle\\daemon\\8.11.1\\com.example.lab4.app-main-51:\\xml\\data_extraction_rules.xml"
+    },
+    {
+        "merged": "C:\\Users\\danil\\.gradle\\daemon\\8.11.1\\com.example.lab4.app-debug-49:\\drawable_ic_video.xml.flat",
+        "source": "C:\\Users\\danil\\.gradle\\daemon\\8.11.1\\com.example.lab4.app-main-51:\\drawable\\ic_video.xml"
+    },
+    {
+        "merged": "C:\\Users\\danil\\.gradle\\daemon\\8.11.1\\com.example.lab4.app-debug-49:\\layout_fragment_url_view.xml.flat",
+        "source": "C:\\Users\\danil\\.gradle\\daemon\\8.11.1\\com.example.lab4.app-main-51:\\layout\\fragment_url_view.xml"
+    },
+    {
+        "merged": "C:\\Users\\danil\\.gradle\\daemon\\8.11.1\\com.example.lab4.app-debug-49:\\drawable_ic_audio.xml.flat",
+        "source": "C:\\Users\\danil\\.gradle\\daemon\\8.11.1\\com.example.lab4.app-main-51:\\drawable\\ic_audio.xml"
+    },
+    {
+        "merged": "C:\\Users\\danil\\.gradle\\daemon\\8.11.1\\com.example.lab4.app-debug-49:\\mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\danil\\.gradle\\daemon\\8.11.1\\com.example.lab4.app-main-51:\\mipmap-xxhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\danil\\.gradle\\daemon\\8.11.1\\com.example.lab4.app-debug-49:\\drawable_audio_rounded_spinner.xml.flat",
+        "source": "C:\\Users\\danil\\.gradle\\daemon\\8.11.1\\com.example.lab4.app-main-51:\\drawable\\audio_rounded_spinner.xml"
+    },
+    {
+        "merged": "C:\\Users\\danil\\.gradle\\daemon\\8.11.1\\com.example.lab4.app-debug-49:\\anim_slide_out_left.xml.flat",
+        "source": "C:\\Users\\danil\\.gradle\\daemon\\8.11.1\\com.example.lab4.app-main-51:\\anim\\slide_out_left.xml"
+    },
+    {
+        "merged": "C:\\Users\\danil\\.gradle\\daemon\\8.11.1\\com.example.lab4.app-debug-49:\\layout_fragment_external_view.xml.flat",
+        "source": "C:\\Users\\danil\\.gradle\\daemon\\8.11.1\\com.example.lab4.app-main-51:\\layout\\fragment_external_view.xml"
+    },
+    {
+        "merged": "C:\\Users\\danil\\.gradle\\daemon\\8.11.1\\com.example.lab4.app-debug-49:\\anim_slide_in_left.xml.flat",
+        "source": "C:\\Users\\danil\\.gradle\\daemon\\8.11.1\\com.example.lab4.app-main-51:\\anim\\slide_in_left.xml"
+    },
+    {
+        "merged": "C:\\Users\\danil\\.gradle\\daemon\\8.11.1\\com.example.lab4.app-debug-49:\\drawable_spinner_selected_item_audio.xml.flat",
+        "source": "C:\\Users\\danil\\.gradle\\daemon\\8.11.1\\com.example.lab4.app-main-51:\\drawable\\spinner_selected_item_audio.xml"
+    },
+    {
+        "merged": "C:\\Users\\danil\\.gradle\\daemon\\8.11.1\\com.example.lab4.app-debug-49:\\anim_slide_in_right.xml.flat",
+        "source": "C:\\Users\\danil\\.gradle\\daemon\\8.11.1\\com.example.lab4.app-main-51:\\anim\\slide_in_right.xml"
+    },
+    {
+        "merged": "C:\\Users\\danil\\.gradle\\daemon\\8.11.1\\com.example.lab4.app-debug-49:\\mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\danil\\.gradle\\daemon\\8.11.1\\com.example.lab4.app-main-51:\\mipmap-hdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\danil\\.gradle\\daemon\\8.11.1\\com.example.lab4.app-debug-49:\\mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\danil\\.gradle\\daemon\\8.11.1\\com.example.lab4.app-main-51:\\mipmap-xxxhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\danil\\.gradle\\daemon\\8.11.1\\com.example.lab4.app-debug-49:\\drawable_ic_video_file.xml.flat",
+        "source": "C:\\Users\\danil\\.gradle\\daemon\\8.11.1\\com.example.lab4.app-main-51:\\drawable\\ic_video_file.xml"
+    },
+    {
+        "merged": "C:\\Users\\danil\\.gradle\\daemon\\8.11.1\\com.example.lab4.app-debug-49:\\mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\danil\\.gradle\\daemon\\8.11.1\\com.example.lab4.app-main-51:\\mipmap-mdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\danil\\.gradle\\daemon\\8.11.1\\com.example.lab4.app-debug-49:\\layout_activity_video_player.xml.flat",
+        "source": "C:\\Users\\danil\\.gradle\\daemon\\8.11.1\\com.example.lab4.app-main-51:\\layout\\activity_video_player.xml"
+    },
+    {
+        "merged": "C:\\Users\\danil\\.gradle\\daemon\\8.11.1\\com.example.lab4.app-debug-49:\\layout_video_item_view.xml.flat",
+        "source": "C:\\Users\\danil\\.gradle\\daemon\\8.11.1\\com.example.lab4.app-main-51:\\layout\\video_item_view.xml"
+    },
+    {
+        "merged": "C:\\Users\\danil\\.gradle\\daemon\\8.11.1\\com.example.lab4.app-debug-49:\\mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\danil\\.gradle\\daemon\\8.11.1\\com.example.lab4.app-main-51:\\mipmap-hdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\danil\\.gradle\\daemon\\8.11.1\\com.example.lab4.app-debug-49:\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "C:\\Users\\danil\\.gradle\\daemon\\8.11.1\\com.example.lab4.app-main-51:\\mipmap-anydpi-v26\\ic_launcher_round.xml"
+    },
+    {
+        "merged": "C:\\Users\\danil\\.gradle\\daemon\\8.11.1\\com.example.lab4.app-debug-49:\\drawable_spinner_selected_item_video.xml.flat",
+        "source": "C:\\Users\\danil\\.gradle\\daemon\\8.11.1\\com.example.lab4.app-main-51:\\drawable\\spinner_selected_item_video.xml"
+    },
+    {
+        "merged": "C:\\Users\\danil\\.gradle\\daemon\\8.11.1\\com.example.lab4.app-debug-49:\\mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\danil\\.gradle\\daemon\\8.11.1\\com.example.lab4.app-main-51:\\mipmap-xhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\danil\\.gradle\\daemon\\8.11.1\\com.example.lab4.app-debug-49:\\drawable_default_rounded_spinner.xml.flat",
+        "source": "C:\\Users\\danil\\.gradle\\daemon\\8.11.1\\com.example.lab4.app-main-51:\\drawable\\default_rounded_spinner.xml"
+    },
+    {
+        "merged": "C:\\Users\\danil\\.gradle\\daemon\\8.11.1\\com.example.lab4.app-debug-49:\\layout_fragment_spinner.xml.flat",
+        "source": "C:\\Users\\danil\\.gradle\\daemon\\8.11.1\\com.example.lab4.app-main-51:\\layout\\fragment_spinner.xml"
+    },
+    {
+        "merged": "C:\\Users\\danil\\.gradle\\daemon\\8.11.1\\com.example.lab4.app-debug-49:\\mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "C:\\Users\\danil\\.gradle\\daemon\\8.11.1\\com.example.lab4.app-main-51:\\mipmap-anydpi-v26\\ic_launcher.xml"
+    },
+    {
+        "merged": "com.example.lab4.app-debug-49:/layout_activity_audio_player.xml.flat",
+        "source": "com.example.lab4.app-main-51:/layout/activity_audio_player.xml"
+    },
+    {
+        "merged": "C:\\Users\\danil\\.gradle\\daemon\\8.11.1\\com.example.lab4.app-debug-49:\\xml_backup_rules.xml.flat",
+        "source": "C:\\Users\\danil\\.gradle\\daemon\\8.11.1\\com.example.lab4.app-main-51:\\xml\\backup_rules.xml"
+    },
+    {
+        "merged": "C:\\Users\\danil\\.gradle\\daemon\\8.11.1\\com.example.lab4.app-debug-49:\\mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\danil\\.gradle\\daemon\\8.11.1\\com.example.lab4.app-main-51:\\mipmap-xxhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\danil\\.gradle\\daemon\\8.11.1\\com.example.lab4.app-debug-49:\\layout_audio_item_view.xml.flat",
+        "source": "C:\\Users\\danil\\.gradle\\daemon\\8.11.1\\com.example.lab4.app-main-51:\\layout\\audio_item_view.xml"
+    },
+    {
+        "merged": "C:\\Users\\danil\\.gradle\\daemon\\8.11.1\\com.example.lab4.app-debug-49:\\drawable_video_rounded_spinner.xml.flat",
+        "source": "C:\\Users\\danil\\.gradle\\daemon\\8.11.1\\com.example.lab4.app-main-51:\\drawable\\video_rounded_spinner.xml"
+    },
+    {
+        "merged": "C:\\Users\\danil\\.gradle\\daemon\\8.11.1\\com.example.lab4.app-debug-49:\\layout_fragment_internal_view.xml.flat",
+        "source": "C:\\Users\\danil\\.gradle\\daemon\\8.11.1\\com.example.lab4.app-main-51:\\layout\\fragment_internal_view.xml"
+    },
+    {
+        "merged": "C:\\Users\\danil\\.gradle\\daemon\\8.11.1\\com.example.lab4.app-debug-49:\\layout_activity_audio_player.xml.flat",
+        "source": "C:\\Users\\danil\\.gradle\\daemon\\8.11.1\\com.example.lab4.app-main-51:\\layout\\activity_audio_player.xml"
+    },
+    {
+        "merged": "C:\\Users\\danil\\.gradle\\daemon\\8.11.1\\com.example.lab4.app-debug-49:\\drawable_ic_audio_file.xml.flat",
+        "source": "C:\\Users\\danil\\.gradle\\daemon\\8.11.1\\com.example.lab4.app-main-51:\\drawable\\ic_audio_file.xml"
+    },
+    {
+        "merged": "C:\\Users\\danil\\.gradle\\daemon\\8.11.1\\com.example.lab4.app-debug-49:\\anim_slide_out_right.xml.flat",
+        "source": "C:\\Users\\danil\\.gradle\\daemon\\8.11.1\\com.example.lab4.app-main-51:\\anim\\slide_out_right.xml"
+    },
+    {
+        "merged": "C:\\Users\\danil\\.gradle\\daemon\\8.11.1\\com.example.lab4.app-debug-49:\\drawable_ic_launcher_background.xml.flat",
+        "source": "C:\\Users\\danil\\.gradle\\daemon\\8.11.1\\com.example.lab4.app-main-51:\\drawable\\ic_launcher_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\danil\\.gradle\\daemon\\8.11.1\\com.example.lab4.app-debug-49:\\mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\danil\\.gradle\\daemon\\8.11.1\\com.example.lab4.app-main-51:\\mipmap-mdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\danil\\.gradle\\daemon\\8.11.1\\com.example.lab4.app-debug-49:\\menu_menu.xml.flat",
+        "source": "C:\\Users\\danil\\.gradle\\daemon\\8.11.1\\com.example.lab4.app-main-51:\\menu\\menu.xml"
+    },
+    {
+        "merged": "C:\\Users\\danil\\.gradle\\daemon\\8.11.1\\com.example.lab4.app-debug-49:\\mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\danil\\.gradle\\daemon\\8.11.1\\com.example.lab4.app-main-51:\\mipmap-xhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\danil\\.gradle\\daemon\\8.11.1\\com.example.lab4.app-debug-49:\\drawable_ic_launcher_foreground.xml.flat",
+        "source": "C:\\Users\\danil\\.gradle\\daemon\\8.11.1\\com.example.lab4.app-main-51:\\drawable\\ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "C:\\Users\\danil\\.gradle\\daemon\\8.11.1\\com.example.lab4.app-debug-49:\\layout_activity_main.xml.flat",
+        "source": "C:\\Users\\danil\\.gradle\\daemon\\8.11.1\\com.example.lab4.app-main-51:\\layout\\activity_main.xml"
+    }
+]

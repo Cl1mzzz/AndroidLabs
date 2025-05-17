@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="file_source_options">
+        <item>Internal Storage</item>
+        <item>External Storage</item>
+        <item>From Internet</item>
+    </string-array>
+    <color name="audio">#22E3FF</color>
+    <color name="audio_card_bg">#17303A</color>
+    <color name="audio_card_ic">#22E3FF</color>
+    <color name="audio_recycler_bg">#0A1317</color>
+    <color name="black">#FF000000</color>
+    <color name="spinner">#B9B9B9</color>
+    <color name="video">#FF3A3A</color>
+    <color name="video_card_bg">#3C151E</color>
+    <color name="video_card_ic">#EB4149</color>
+    <color name="video_card_tx">#EB4149</color>
+    <color name="video_recycler_bg">#170A0A</color>
+    <color name="white">#FFFFFFFF</color>
+    <string name="app_name">Lab4</string>
+    <string name="audio_list_str">Audio List:</string>
+    <string name="audio_no_found_str">Audio no found</string>
+    <string name="audio_str">Audio</string>
+    <string name="enter_url_str">Enter URL</string>
+    <string name="not_selected_str">Not selected</string>
+    <string name="open_btn_str">OPEN</string>
+    <string name="video_choose_str">Select source:</string>
+    <string name="video_list_str">Video List:</string>
+    <string name="video_no_found_str">Video no found</string>
+    <string name="video_str">Video</string>
+    <style name="Base.Theme.Lab4" parent="Theme.Material3.DayNight.NoActionBar">
+        
+        
+    </style>
+    <style name="MenuItemTextStyle">
+        <item name="android:textSize">18sp</item>
+    </style>
+    <style name="Theme.Lab4" parent="Base.Theme.Lab4"/>
+</resources>
