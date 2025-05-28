@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/widget_layout"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:clickable="true"
+    android:focusable="true"
+    android:padding="8dp"
+    >
+
+    <LinearLayout
+        android:id="@+id/center_container"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical"
+        android:gravity="center"
+        android:clickable="true"
+        android:focusable="true"
+        android:layout_centerInParent="true">
+
+        <TextView
+            android:id="@+id/text_city"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/city_2"
+            android:textColor="@color/black"
+            android:textSize="18sp"/>
+
+        <TextView
+            android:id="@+id/text_temp"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/temp"
+            android:textColor="@color/black"
+            android:textSize="42sp"
+            android:textStyle="bold" />
+
+        <TextView
+            android:id="@+id/text_weather"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/weather_2"
+            android:textColor="@color/black"
+            android:textSize="18sp" />
+
+        <ImageView
+            android:id="@+id/image_weather"
+            android:layout_width="150dp"
+            android:layout_height="150dp"
+            android:layout_centerHorizontal="true"
+            android:contentDescription="@string/weather_icon_2" />
+
+    </LinearLayout>
+</RelativeLayout>

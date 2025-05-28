@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Lab6</string>
+    <string name="location">Location:</string>
+    <string name="temperature">Temperature:</string>
+    <string name="weather">Weather:</string>
+    <string name="weather_icon">Weather Icon</string>
+    <string name="city">Місто:</string>
+    <string name="city_2">City</string>
+    <string name="temp">Temp</string>
+    <string name="weather_2">Weather</string>
+    <string name="weather_icon_2">Weather Icon</string>
+    <string name="weather_api_key">0c996cd3bb80eaf8f54a8c6fe5033536</string>
+</resources>
